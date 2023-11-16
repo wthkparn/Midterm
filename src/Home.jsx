@@ -7,7 +7,7 @@ export const HomeComponent = () => {
                     objectFit: "cover",
                     width: "100%",
                     paddingLeft: "10%"
-                }} /> <div style={{ fontSize: "15px" }}>
+                }}alt="Error" /> <div style={{ fontSize: "15px" }}>
                     Wethaka Uphata 6101545
                 </div>
             </div>
@@ -18,7 +18,7 @@ export const HomeComponent = () => {
                 objectFit: "cover",
                 left: "5%",
                 position: "relative"
-            }} />
+            }}alt="Error" />
 
         </div>
 
@@ -26,7 +26,7 @@ export const HomeComponent = () => {
 
             {<img src={'./main.jpg'} style={{
 
-            }} />}
+            }}alt="Error" />}
         </div>
 
     </div>
